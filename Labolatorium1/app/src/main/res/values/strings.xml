@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Labolatorium1</string>
+    <string name="doubleText">8 bajtów - max ok 15 cyfr po przecinku (posiadają przyrostek D, lub d)</string>
+    <string name="intText">4 bajty - zakres od -2 147 483 648 do 2 147 483 647</string>
+    <string name="stringText">Tekstowy typ danych służący do przechowywania ciągu znaków</string>
+    <string name="boolText">Reprezentuje on tylko dwie wartości: true - prawda, false - fałsz</string>
+</resources>

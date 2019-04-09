@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zniszcz miasto</string>
+    <string name="text">Odpal głowicę i zniszcz miasto:</string>
+
+    <string name="channel_name">Channel</string>
+    <string name="channel_description">Some description</string>
+</resources>

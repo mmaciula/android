@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labolatorium2</string>
+    <string name="rgb">Show color system:</string>
+    <string name="list">Display example list:</string>
+</resources>
